@@ -1,0 +1,97 @@
+{
+    "events": [
+        {
+            "start_date": {
+                "year": "2020",
+                "month": "10"
+            },
+            "media": {
+                "url": "https://miro.medium.com/max/1196/1*LGIUFgiw1GkElFM4vBX0Sg.png",
+                "credit": "Towards Data Science"
+            },
+            "text": {
+                "headline": "First technical content publihsed in TDS",
+                "text": "A step by step explanation of convolutional neural nets, with a Keras implementation."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2020",
+                "month": "12"
+            },
+            "media": {
+                "url": "https://miro.medium.com/max/1196/1*LGIUFgiw1GkElFM4vBX0Sg.png",
+                "credit": "Towards Data Science"
+            },
+            "text": {
+                "headline": "The Essence of RNNs",
+                "text": "In-depth explanation of Recurrent neural nets and building an intuition behind the building blocks of more complex architectures."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2021",
+                "month": "8"
+            },
+            "media": {
+                "url": "https://miro.medium.com/max/1196/1*LGIUFgiw1GkElFM4vBX0Sg.png",
+                "credit": "Towards Data Science"
+            },
+            "text": {
+                "headline": "An Introduction to Linear Algebra for Deep Learning",
+                "text": "Explanation of the Matrix calculus and algebra behind deep learning."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2021",
+                "month": "9"
+            },
+            "end_date": {
+                "year": "2021",
+                "month": "12"
+            },
+            "media": {
+                "url": "data:image/png;base64,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",
+                "credit": "GAMA ENERGY"
+            },
+            "text": {
+                "headline": "Junior Data Scientist",
+                "text": "Developed a fully automated pipeline for different regression and classification tasks."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2021",
+                "month": "7"
+            },
+            "media": {
+                "url": "https://neuromatch.io/neuromatch-og-img.png",
+                "credit": "Neuromatch Academy"
+            },
+            "text": {
+                "headline": "Student Researcher",
+                "text": "High-quality training program in theoretical modelling and computational neuroscience, including Machine Learning, Dynamical Systems and Stochastic Processes."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2021",
+                "month": "11"
+            },
+            "end_date": {
+                "year": "2022",
+                "month": "4"
+            },
+            "media": {
+                "url": "https://novuswriter.ai/static/media/novusLogo.924f818f.png",
+                "credit": "Novus Technologies",
+                "link_target": "https://novuswriter.ai/"
+            },
+            "text": {
+                "headline": "Machine Learning Engineer",
+                "text": "Implemented state-of-the-art natural language processing architectures. Developed various deep learning REST APIs."
+            }
+        }
+    ]
+}
